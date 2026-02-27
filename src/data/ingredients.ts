@@ -295,6 +295,153 @@ export const ingredients: Ingredient[] = [
     "protein": 31.5
   },
   {
+    "id": "43",
+    "name": "FARINA DI SEMI DI COTONE",
+    "digestibility": "MEDIA",
+    "binding": "NEUTRA",
+    "protein": 50
+  },
+  {
+    "id": "44",
+    "name": "FARINA DI CANAPA",
+    "digestibility": "BUONA",
+    "binding": "SLEGANTE",
+    "protein": 20
+  },
+  {
+    "id": "45",
+    "name": "FIOCCHI DI PATATE",
+    "digestibility": "BUONA",
+    "binding": "OTTIMO",
+    "protein": 24
+  },
+  {
+    "id": "46",
+    "name": "POLVERE DI SANGUE",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 88
+  },
+  {
+    "id": "47",
+    "name": "LIEVITO DI BIRRA",
+    "digestibility": "OTTIMA",
+    "binding": "NEUTRA",
+    "protein": 50
+  },
+  {
+    "id": "48",
+    "name": "MANGIME PER POLLI",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 20
+  },
+  {
+    "id": "49",
+    "name": "FARINA DI LENTICCHIE",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 20
+  },
+  {
+    "id": "50",
+    "name": "SIERO DI LATTE",
+    "digestibility": "OTTIMA",
+    "binding": "NEUTRA",
+    "protein": 12
+  },
+  {
+    "id": "51",
+    "name": "BIRDFOOD (ERO STYLE C&R)",
+    "digestibility": "BUONA",
+    "binding": "SLEGANTE",
+    "protein": 16
+  },
+  {
+    "id": "52",
+    "name": "PANE INTEGRALE",
+    "digestibility": "BUONA",
+    "binding": "MEDIA",
+    "protein": 8.4
+  },
+  {
+    "id": "53",
+    "name": "PANE BIANCO",
+    "digestibility": "BUONA",
+    "binding": "MEDIA",
+    "protein": 8.3
+  },
+  {
+    "id": "54",
+    "name": "FARINA DI PANE INTEGRALE",
+    "digestibility": "BUONA",
+    "binding": "MEDIA",
+    "protein": 7
+  },
+  {
+    "id": "55",
+    "name": "SARDINE IN SCATOLA",
+    "digestibility": "BUONA",
+    "binding": "SLEGANTE",
+    "protein": 17
+  },
+  {
+    "id": "56",
+    "name": "MANGIME PER CAVALLI",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 26
+  },
+  {
+    "id": "57",
+    "name": "SEMI DI MIGLIO DECORTICATI",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 9.1
+  },
+  {
+    "id": "58",
+    "name": "GRITS DI MAIS",
+    "digestibility": "BUONA",
+    "binding": "MEDIA",
+    "protein": 8.1
+  },
+  {
+    "id": "59",
+    "name": "RISO ISTANTANEO",
+    "digestibility": "OTTIMA",
+    "binding": "NEUTRA",
+    "protein": 7.4
+  },
+  {
+    "id": "60",
+    "name": "PELLET PER TROTE",
+    "digestibility": "BUONA",
+    "binding": "SLEGANTE",
+    "protein": 50
+  },
+  {
+    "id": "61",
+    "name": "FARINA DI SOIA (POCHI GRASSI)",
+    "digestibility": "MEDIA",
+    "binding": "MEDIA",
+    "protein": 47
+  },
+  {
+    "id": "62",
+    "name": "LATTE DI SOIA IN POLVERE",
+    "digestibility": "BUONA",
+    "binding": "NEUTRA",
+    "protein": 35
+  },
+  {
+    "id": "63",
+    "name": "FARINA DI MAIS TOSTATA",
+    "digestibility": "OTTIMA",
+    "binding": "MEDIA",
+    "protein": 6
+  },
+  {
     "id": "eggs",
     "name": "NUM. DI UOVA (MEDIE)",
     "digestibility": "",
