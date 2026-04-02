@@ -7,5 +7,3 @@ Consente di gestire database di ingredienti, creare ricette personalizzate e vis
 Born out of a passion for carp fishing, this app helps you optimize the creation of your bait (boilies) by accurately calculating the nutritional values of the various ingredients used.
 
 It allows you to manage ingredient databases, create custom recipes, and view charts showing the final protein, fat, and carbohydrate content. An indispensable tool for anyone looking to take their fishing technique to the next level.
-
-Translated with DeepL.com (free version)
